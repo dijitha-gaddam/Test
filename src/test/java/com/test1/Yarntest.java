@@ -16,7 +16,7 @@ public class Yarntest
 	@Test (retryAnalyzer=TestRetry.class)
 	public void prodyarn() throws  InterruptedException, IOException
 	{
-	System.setProperty("webdriver.chrome.driver","C:\\Users\\dijitha\\Downloads\\chromedriver_win32\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","C:\\Users\\dijithag\\Desktop\\chromedriver.exe");
 	WebDriver driver=new ChromeDriver();
 	driver.manage().window().maximize();
 	Thread.sleep(6000);
