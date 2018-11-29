@@ -13,7 +13,7 @@ public class Sanitytest
 	@Test
 	public void testEmpLogin() throws InterruptedException
 	{
-	System.setProperty("webdriver.chrome.driver","C:\\Users\\dijithag\\Desktop\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","C:\\Users\\dijitha\\Downloads\\chromedriver_win32\\chromedriver.exe");
 	WebDriver driver=new ChromeDriver();
 	driver.get("http://stagingdashboard.modjoul.com");
 	driver.manage().window().maximize();
