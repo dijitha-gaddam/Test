@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Dashboard Url: stagingdashboard.modjoul.com]]>
+    </line>
+    <line>
+      <![CDATA[Username: Halva@mailinator.com]]>
+    </line>
+    <line>
+      <![CDATA[password: **********]]>
+    </line>
+    <line>
+      <![CDATA[Last activity reported at November 27 2018 01:52:39 am]]>
+    </line>
+    <line>
+      <![CDATA[Total work time is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Walking duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[ Walking step count is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Walking distance in miles is : 0]]>
+    </line>
+    <line>
+      <![CDATA[WalkingSpeed in miles/hour is :  0]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Total Bend count is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Bending duration is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Total twistCount is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Twisting duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[sitting/Standing duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Driving duration is  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[completed ]]>
+    </line>
+    <line>
+      <![CDATA[Data pushed on dev environment and Streaming completed]]>
+    </line>
+    <line>
+      <![CDATA[MetricComputeWF job is running]]>
+    </line>
+    <line>
+      <![CDATA[Metric compute job is completed]]>
+    </line>
+    <line>
+      <![CDATA[Total time taken to complete metric compute job  is : 5mins, 48sec]]>
+    </line>
+    <line>
+      <![CDATA[ActivityTimelineWF job is completed]]>
+    </line>
+    <line>
+      <![CDATA[Total time taken to complete ActivityTimeline job  is : 17sec]]>
+    </line>
+  </reporter-output>
+  <suite name=" Test Maven Suite" duration-ms="188450" started-at="2018-11-28T07:21:39Z" finished-at="2018-11-28T07:24:48Z">
+    <groups>
+    </groups>
+    <test name="Test Maven testng" duration-ms="188450" started-at="2018-11-28T07:21:39Z" finished-at="2018-11-28T07:24:48Z">
+      <class name="com.test1.Sanitytest">
+        <test-method status="PASS" signature="testEmpLogin()[pri:0, instance:com.test1.Sanitytest@1e67b872]" name="testEmpLogin" duration-ms="148615" started-at="2018-11-28T07:21:39Z" finished-at="2018-11-28T07:24:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Dashboard Url: stagingdashboard.modjoul.com]]>
+            </line>
+            <line>
+              <![CDATA[Username: Halva@mailinator.com]]>
+            </line>
+            <line>
+              <![CDATA[password: **********]]>
+            </line>
+            <line>
+              <![CDATA[Last activity reported at November 27 2018 01:52:39 am]]>
+            </line>
+            <line>
+              <![CDATA[Total work time is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Walking duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[ Walking step count is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Walking distance in miles is : 0]]>
+            </line>
+            <line>
+              <![CDATA[WalkingSpeed in miles/hour is :  0]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Total Bend count is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Bending duration is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Total twistCount is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Twisting duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[sitting/Standing duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Driving duration is  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[completed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testEmpLogin -->
+      </class> <!-- com.test1.Sanitytest -->
+      <class name="com.test1.Yarntest">
+        <test-method status="PASS" signature="prodyarn()[pri:0, instance:com.test1.Yarntest@dfd3711]" name="prodyarn" duration-ms="39817" started-at="2018-11-28T07:24:08Z" finished-at="2018-11-28T07:24:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Data pushed on dev environment and Streaming completed]]>
+            </line>
+            <line>
+              <![CDATA[MetricComputeWF job is running]]>
+            </line>
+            <line>
+              <![CDATA[Metric compute job is completed]]>
+            </line>
+            <line>
+              <![CDATA[Total time taken to complete metric compute job  is : 5mins, 48sec]]>
+            </line>
+            <line>
+              <![CDATA[ActivityTimelineWF job is completed]]>
+            </line>
+            <line>
+              <![CDATA[Total time taken to complete ActivityTimeline job  is : 17sec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- prodyarn -->
+      </class> <!-- com.test1.Yarntest -->
+    </test> <!-- Test Maven testng -->
+  </suite> <!--  Test Maven Suite -->
+</testng-results>
